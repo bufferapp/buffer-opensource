@@ -1,0 +1,36 @@
+AreaName = "Web"
+
+[[projects]]
+name =  "Buffer UI Components"
+repo = "buffer-components"
+description = "A shared set of UI Components using React and CSS Modules. <a href='https://bufferapp.github.io/buffer-components'>Demo</a>"
+
+[[projects]]
+name = "Buffer Dashboard Components"
+repo = "buffer-web-components"
+description = "Buffer Dashboard \"Molecules\" (based upon the concept of <a href='http://bradfrost.com/blog/post/atomic-web-design/'>Atomic Design</a>)"
+
+[[projects]]
+name="Redux Hover"
+repo = "buffer-redux-hover"
+description = "Keep React component hover state in Redux store"
+
+[[projects]]
+name = "Micro RPC"
+repo = "micro-rpc"
+description = "Async RPC (Remote Procedural Call) microservices made easy"
+
+[[projects]]
+name = "Buzzer"
+repo = "buzzer"
+description = "A little buzzer app for running your own quizzes or game shows!"
+
+[[projects]]
+name = "JS request"
+repo = "buffer-js-request"
+description = "JS interface to send requests – a tidy, thin wrapper around fetch()"
+
+[[projects]]
+name = "JS DragMe"
+repo = "buffer-js-dragme"
+description = "A small module for dragging components."

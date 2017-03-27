@@ -1,0 +1,17 @@
+AreaName = "Android"
+
+[[projects]]
+name = "BufferTextInputLayout"
+repo = "BufferTextInputLayout"
+description = "A simple customised version of the TextInputLayout from the Android Design Support Library"
+
+[[projects]]
+name = "Android Code Guidelines"
+repo = "android-guidelines"
+description = "Project Guidelines for the Android Buffer App"
+
+
+[[projects]]
+name="Simple Bottom Navigation"
+repo="SimpleBottomNavigation"
+description="A simpler way to implementing the Bottom Navigation View on Android"

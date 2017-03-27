@@ -1,0 +1,21 @@
+<section id="{{ .AreaName }}" class="grid <grid-options>">
+    <div class="container">
+        <div class="grid-row">
+            <h2>{{ .AreaName }}</h2>
+        </div>
+        {{ range $i, $element := .projects }}
+          {{ if eq ( mod $i 3 ) 0 }}
+            <div class="grid-row">
+          {{end}}
+              <div class="col one-third">
+                <h3><a href="https://github.com/bufferapp/{{ .link }}">{{ .name }}</a></h3>
+                <a class="github-button" href="https://github.com/bufferapp/{{ .repo }}" data-icon="octicon-star" data-count-href="/bufferapp/{{ .repo }}/stargazers" data-count-api="/repos/bufferapp/{{ .repo }}#stargazers_count" data-count-aria-label="# stargazers on GitHub"
+                aria-label="Star bufferapp/{{ .repo }} on GitHub">Star</a>
+                <p>{{ .description | safeHTML }}</p>
+              </div>
+          {{ if eq ( mod $i 3 ) 2 }}
+            </div>
+          {{end}}
+        {{ end }}
+    </div>
+</section>

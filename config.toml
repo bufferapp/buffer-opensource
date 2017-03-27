@@ -1,0 +1,4 @@
+theme = "buffer-foss"
+baseURL = "http://buffer.github.io"
+title = "Buffer Open Source"
+languageCode = "en-us"

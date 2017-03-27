@@ -1,0 +1,17 @@
+AreaName="iOS"
+
+[[projects]]
+name =  "Buffer iOS Image Viewer"
+repo = "buffer-ios-image-viewer"
+description = "The BFRImageViewer is a turnkey solution to present images within your iOS app 🎉! It's based off of the excellent IDMPhotoBrowser, but tweaked for our own needs."
+
+[[projects]]
+name = "BFRReorderTableView"
+repo = "BFRReorderTableView"
+description = "Project Guidelines for the Android Buffer App"
+
+
+[[projects]]
+name="Simple Bottom Navigation"
+repo="SimpleBottomNavigation"
+description="A simpler way to implementing the Bottom Navigation View on Android"
