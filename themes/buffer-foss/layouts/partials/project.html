@@ -8,7 +8,7 @@
             <div class="grid-row">
           {{end}}
               <div class="col one-third">
-                <h3><a href="https://github.com/bufferapp/{{ .link }}">{{ .name }}</a></h3>
+                <h3><a href="https://github.com/bufferapp/{{ .repo }}">{{ .name }}</a></h3>
                 <a class="github-button" href="https://github.com/bufferapp/{{ .repo }}" data-icon="octicon-star" data-count-href="/bufferapp/{{ .repo }}/stargazers" data-count-api="/repos/bufferapp/{{ .repo }}#stargazers_count" data-count-aria-label="# stargazers on GitHub"
                 aria-label="Star bufferapp/{{ .repo }} on GitHub">Star</a>
                 <p>{{ .description | safeHTML }}</p>
