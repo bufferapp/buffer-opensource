@@ -4,3 +4,8 @@ AreaName = "Data"
 name =  "rsdf"
 repo = "rsdf"
 description = "Set of utils to connect Pandas' DataFrames and Redshift."
+
+[[projects]]
+name =  "pylooker"
+repo =  "pylooker"
+description = "A basic Python interface to <a href='https://looker.com/docs/reference/api-and-integration'>Looker API</a>"
