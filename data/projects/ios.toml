@@ -8,10 +8,9 @@ description = "The BFRImageViewer is a turnkey solution to present images within
 [[projects]]
 name = "BFRReorderTableView"
 repo = "BFRReorderTableView"
-description = "Project Guidelines for the Android Buffer App"
-
+description = "The BFRTableReorder is an out of the box solution to add long press reordering to your <a href='https://github.com/texturegroup/texture/'>Texture (form)</a> apps 🎉!"
 
 [[projects]]
-name="Simple Bottom Navigation"
-repo="SimpleBottomNavigation"
-description="A simpler way to implementing the Bottom Navigation View on Android"
+name="BFRGIFRefreshControl"
+repo="BFRGIFRefreshControl"
+description="The BFRGifRefreshControl is an extremely lightweight, unintrusive and configurable way to add a .gif to refreshing actions inside of your iOS app 📱!"
