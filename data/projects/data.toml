@@ -9,3 +9,8 @@ description = "Set of utils to connect Pandas' DataFrames and Redshift."
 name =  "pylooker"
 repo =  "pylooker"
 description = "A basic Python interface to <a href='https://looker.com/docs/reference/api-and-integration'>Looker API</a>"
+
+[[projects]]
+name =  "helpscout_api"
+repo =  "helpscout_api"
+description = "A simple Python interface to Helpscout's <a href='developer.helpscout.net/help-desk-api/'>API.</a>"
