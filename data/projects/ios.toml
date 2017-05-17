@@ -3,7 +3,7 @@ AreaName="iOS"
 [[projects]]
 name =  "Buffer iOS Image Viewer"
 repo = "buffer-ios-image-viewer"
-description = "The BFRImageViewer is a turnkey solution to present images within your iOS app 🎉! It's based off of the excellent IDMPhotoBrowser, but tweaked for our own needs."
+description = "If features swipe gestures to dismiss, automatic image scaling, zooming and panning, supports multiple images, image types, URL backloading, custom view controller transitions and plays nicely with 3D touch! We use it all over the place in Buffer for iOS :-)."
 
 [[projects]]
 name = "BFRReorderTableView"
