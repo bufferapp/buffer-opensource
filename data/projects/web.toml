@@ -34,3 +34,8 @@ description = "JS interface to send requests – a tidy, thin wrapper around fet
 name = "JS DragMe"
 repo = "buffer-js-dragme"
 description = "A small module for dragging components."
+
+[[projects]]
+name = "Quality Dashboard"
+repo = "buffer-quality-dashboard"
+description = "A dashboard to visualize GitHub issues for the buffer-web repo."
