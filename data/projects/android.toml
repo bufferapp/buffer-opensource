@@ -12,6 +12,6 @@ description = "Project Guidelines for the Android Buffer App"
 
 
 [[projects]]
-name="Simple Bottom Navigation"
-repo="SimpleBottomNavigation"
+name="Adaptable Bottom Navigation"
+repo="AdaptableBottomNavigation"
 description="A simpler way to implementing the Bottom Navigation View on Android"
