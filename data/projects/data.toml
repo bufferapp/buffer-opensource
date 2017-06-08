@@ -14,3 +14,8 @@ description = "A basic Python interface to <a href='https://looker.com/docs/refe
 name =  "helpscout_api"
 repo =  "helpscout_api"
 description = "A simple Python interface to Helpscout's <a href='developer.helpscout.net/help-desk-api/'>API.</a>"
+
+[[projects]]
+name =  "cerone"
+repo =  "cerone"
+description = "Extensible consumer made for applications using Amazon's Kinesis Python Client Library (KCL)."
