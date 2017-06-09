@@ -33,10 +33,23 @@ When making changes it's important to commit and push to the repo in the `public
   description = "A short description of the project"
   ```
 4. Run the hugo server, check if everything looks OK locally
-5. Generate the site in the `public` directory with hugo
+5. Generate the site in the root directory with hugo
   ```sh
   hugo
   ```
+  
+  It might be a good idea to run git status at this point:
+  ```sh
+  git status
+  ``` 
+  
+  Make sure you aren't detached from the head or anything weird. If you are, you can fix it with:
+  ```sh
+  git checkout master
+  git pull
+  ```
+  And that should get you back in shape.
+  
 6. Commit and push changes to `bufferapp.github.io`
 
   ```sh
