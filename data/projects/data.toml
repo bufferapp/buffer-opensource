@@ -19,3 +19,8 @@ description = "A simple Python interface to Helpscout's <a href='developer.helps
 name =  "cerone"
 repo =  "cerone"
 description = "Extensible consumer made for applications using Amazon's Kinesis Python Client Library (KCL)."
+
+[[projects]]
+name = "Restream"
+repo =  "restream"
+description = "Replay Firehose Streams in Kinesis Streams!"
