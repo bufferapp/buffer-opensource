@@ -21,6 +21,16 @@ repo =  "cerone"
 description = "Extensible consumer made for applications using Amazon's Kinesis Python Client Library (KCL)."
 
 [[projects]]
-name = "Restream"
+name = "restream"
 repo =  "restream"
 description = "Replay Firehose Streams in Kinesis Streams!"
+
+[[projects]]
+name = "firehoser"
+repo =  "firehoser"
+description = "Automatically foward records from Kinesis to Firehose."
+
+[[projects]]
+name = "kiner"
+repo =  "kiner"
+description = "Python AWS Kinesis Producer with error handling and thread support."
