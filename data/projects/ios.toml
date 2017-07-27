@@ -14,3 +14,8 @@ description = "The BFRTableReorder is an out of the box solution to add long pre
 name="BFRGIFRefreshControl"
 repo="BFRGIFRefreshControl"
 description="The BFRGifRefreshControl is an extremely lightweight, unintrusive and configurable way to add a .gif to refreshing actions inside of your iOS app 📱!"
+
+[[projects]]
+name="BFRHelpScoutDocsClient"
+repo="BFRHelpScoutDocsClient"
+description="BFRHelpScoutDocsClient is a basic wrapper around the HelpScout Docs API."
