@@ -1,15 +1,29 @@
 AreaName = "Android"
 
 [[projects]]
-name = "BufferTextInputLayout"
+name = "Android Clean Architecture Boilerplate"
+repo = "android-clean-architecture-boilerplate"
+description = "An android boilerplate project demonstrating clean architecture"
+
+[[projects]]
+name = "Android Clean Architecture Components Boilerplate"
+repo = "clean-architecture-components-boilerplate"
+description = "A fork of our clean architecture boilerplate, this time using the Android Architecture Components"
+
+[[projects]]
+name = "Biscotti"
+repo = "biscotti"
+description = "A collection of Custom Actions and Matchers for Espresso Testing"
+
+[[projects]]
+name = "Buffer TextInputLayout"
 repo = "BufferTextInputLayout"
 description = "A simple customised version of the TextInputLayout from the Android Design Support Library"
 
 [[projects]]
-name = "Android Code Guidelines"
+name = "Android Project Guidelines"
 repo = "android-guidelines"
-description = "Project Guidelines for the Android Buffer App"
-
+description = "Project Guidelines for the Android Buffer Applications"
 
 [[projects]]
 name="Adaptable Bottom Navigation"
