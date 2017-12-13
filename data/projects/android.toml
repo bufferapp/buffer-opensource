@@ -29,3 +29,8 @@ description = "Project Guidelines for the Android Buffer Applications"
 name="Adaptable Bottom Navigation"
 repo="AdaptableBottomNavigation"
 description="A simpler way to implementing the Bottom Navigation View on Android"
+
+[[projects]]
+name="Reactive-Pusher"
+repo="ReactivePusher"
+description="An RxJava wrapper for using Pusher in your android apps"
