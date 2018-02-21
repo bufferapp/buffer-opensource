@@ -34,3 +34,18 @@ description="A simpler way to implementing the Bottom Navigation View on Android
 name="Reactive-Pusher"
 repo="ReactivePusher"
 description="An RxJava wrapper for using Pusher in your android apps"
+
+[[projects]]
+name="MVI Clean Architecture Boilerplate"
+repo="android-clean-architecture-mvi-boilerplate"
+description="A fork of our clean architecture boilerplate, this time using the Model-View-Intent approach"
+
+[[projects]]
+name="Reactive Play Billing"
+repo="ReactivePlayBilling"
+description="An RxJava wrapper for the Google Play Billing library"
+
+[[projects]]
+name="Social Linkify"
+repo="SocialLinkify"
+description="A library for auto linking of @ mentions and hashtags for Twitter, Facebook and Instagram"
