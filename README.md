@@ -7,7 +7,7 @@ Static site generator (made with [Hugo](https://gohugo.io/)) for [Buffer's Open 
   `brew update && brew install hugo`
 
 2. Clone the repo
-`git clone --recursive https://github.com/bufferapp/buffer-opensource`
+`git clone --recursive git@github.com:bufferapp/buffer-opensource.git`
 
 3. Run the Hugo server
 `hugo server`
